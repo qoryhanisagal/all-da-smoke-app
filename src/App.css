@@ -1,6 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/utilities';
 @import 'tailwindcss';
-
-
+@import 'tailwindcss/typography';
+@import 'tailwindcss/forms';
+@import 'tailwindcss/components';
 #root {
   max-width: 1280px;
   margin: 0 auto;
