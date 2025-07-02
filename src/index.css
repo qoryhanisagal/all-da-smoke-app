@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@plugin "daisyui";
+:root {
+  --primary: #010105;
+  --secondary: #f59e0b;
+  --accent: #5c5a5b;
+  --neutral: #3d4451;
+  --base-100: #ffffff;
+  --info: #2563eb;
+  --success: #16a34a;
+  --warning: #f59e0b;
+  --error: #dc2626;
+}
