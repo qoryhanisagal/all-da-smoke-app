@@ -4,6 +4,7 @@
 @import 'tailwindcss/typography';
 @import 'tailwindcss/forms';
 @import 'tailwindcss/components';
+@plugin "daisyui";
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
